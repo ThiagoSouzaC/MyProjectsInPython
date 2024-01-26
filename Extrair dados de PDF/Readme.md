@@ -31,7 +31,7 @@ Este projeto em Python tem como objetivo extrair informações específicas de u
 3. **Configuração:**
    - Adapte o caminho do seu arquivo PDF no arquivo `main.py`:
      ```python
-     caminho_do_pdf = 'caminho/do/seu/arquivo.pdf'
+     caminho_do_pdf = 'seu diretório'
      ```
 
 4. **Resultado:**
